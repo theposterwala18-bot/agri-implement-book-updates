@@ -1,7 +1,7 @@
 {
   "package_type": "inno_setup",
-  "version": "1.8.2",
-  "url": "https://github.com/theposterwala18-bot/agri-implement-book-updates/releases/download/v1.8.2/AgriImplementBooking_Setup_v1.8.2.exe",
-  "sha256": "f31b11280193ed44e61ec5b3e068260f9714c5a405280b0a323a5661914bf174",
+  "version": "1.8.3",
+  "url": "https://github.com/theposterwala18-bot/agri-implement-book-updates/releases/download/v1.8.3/AgriImplementBooking_Setup_v1.8.3.exe",
+  "sha256": "245c8f78b3b16d6a5d55ad7dd1ee18a5e0d28432d7ba37d29f94592746166bde",
   "notes": "Setup EXE updates: download, checksum verification and installation into your existing Agri folder."
 }
